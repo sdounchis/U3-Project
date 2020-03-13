@@ -1,0 +1,3 @@
+Interactive Conference Form by Sebastian Dounchis
+
+In this project, I used javascript to alter an HTML form, and make it interactive with multiple drop down menus and input selections. Additionally, I used Regex to validate credit card info, emails, and more. This project is a form for a conference in which the reader has to give basic info, select a job role, give t-shirt info, register for activities, and give payment info.
